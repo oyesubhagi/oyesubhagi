@@ -175,3 +175,4 @@ subhagi = {
 *"Bridging wet-lab research with data-driven decision making."*
 
 </div>
+![Snake](https://raw.githubusercontent.com/oyesubhagi/oyesubhagi/output/snake.svg)
